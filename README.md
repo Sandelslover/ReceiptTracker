@@ -81,7 +81,7 @@ app/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Sandelslover/ReceiptTracker
    cd ReceiptTracker
    ```
 
@@ -224,25 +224,11 @@ Planned features for future releases:
 - [ ] Multi-currency support
 - [ ] Receipt templates
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
 
-- Google ML Kit for OCR capabilities
-- Material Design team for UI components
-- CameraX team for modern camera API
-- Room database for local storage
-- All open-source contributors
 
 ## 📞 Support
 
