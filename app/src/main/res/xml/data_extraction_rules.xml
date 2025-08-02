@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <!-- Deny data extraction for sensitive receipt data -->
+    <cloud-backup>
+        <exclude domain="sharedpref" />
+        <exclude domain="database" />
+        <exclude domain="external" />
+        <exclude domain="internal" />
+    </cloud-backup>
+    <!-- Allow minimal data sharing for autofill (e.g., vendor names), if needed -->
+    <autofill>
+        <include domain="database" path="receipts.db" />
+    </autofill>
+</data-extraction-rules>

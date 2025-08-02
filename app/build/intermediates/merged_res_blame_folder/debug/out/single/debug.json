@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/xml_file_paths.xml.flat",
+        "source": "com.receipttracker.app-main-6:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/menu_receipts_menu.xml.flat",
+        "source": "com.receipttracker.app-main-6:/menu/receipts_menu.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.receipttracker.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.receipttracker.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_restaurant.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_restaurant.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.receipttracker.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_warning.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_warning.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_search.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.receipttracker.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.receipttracker.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_receipt_long.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_receipt_long.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/layout_activity_camera.xml.flat",
+        "source": "com.receipttracker.app-main-6:/layout/activity_camera.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_upload.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_upload.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/layout_activity_receipt_detail.xml.flat",
+        "source": "com.receipttracker.app-main-6:/layout/activity_receipt_detail.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/layout_bottom_sheet_add_receipt.xml.flat",
+        "source": "com.receipttracker.app-main-6:/layout/bottom_sheet_add_receipt.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.receipttracker.app-main-6:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.receipttracker.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_shopping_cart.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_shopping_cart.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_search_background.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/search_background.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_camera.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.receipttracker.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/xml_backup_rules.xml.flat",
+        "source": "com.receipttracker.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_receipt_placeholder.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_receipt_placeholder.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_circle_background.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.receipttracker.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_chevron_left.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_chevron_left.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_delete.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.receipttracker.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/layout_activity_add_receipt.xml.flat",
+        "source": "com.receipttracker.app-main-6:/layout/activity_add_receipt.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_settings.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/layout_fragment_summary.xml.flat",
+        "source": "com.receipttracker.app-main-6:/layout/fragment_summary.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/layout_fragment_receipts.xml.flat",
+        "source": "com.receipttracker.app-main-6:/layout/fragment_receipts.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_bar_chart.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_bar_chart.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_rounded_background.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/rounded_background.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/layout_item_category_summary.xml.flat",
+        "source": "com.receipttracker.app-main-6:/layout/item_category_summary.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_filter.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_filter.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.receipttracker.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_download.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_download.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_edit.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/menu_main_menu.xml.flat",
+        "source": "com.receipttracker.app-main-6:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/layout_fragment_settings.xml.flat",
+        "source": "com.receipttracker.app-main-6:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.receipttracker.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.receipttracker.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/menu_receipt_detail_menu.xml.flat",
+        "source": "com.receipttracker.app-main-6:/menu/receipt_detail_menu.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.receipttracker.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.receipttracker.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_add.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_category.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_category.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_photo_library.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_photo_library.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/layout_item_receipt.xml.flat",
+        "source": "com.receipttracker.app-main-6:/layout/item_receipt.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_ic_chevron_right.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-merged_res-4:/drawable_capture_button_background.xml.flat",
+        "source": "com.receipttracker.app-main-6:/drawable/capture_button_background.xml"
+    }
+]

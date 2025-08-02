@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black_overlay">#80000000</color>
+    <color name="blue_500">#FF2196F3</color>
+    <color name="blue_700">#FF1976D2</color>
+    <color name="category_business">#FF9E9E9E</color>
+    <color name="category_clothing">#FFE91E63</color>
+    <color name="category_education">#FF3F51B5</color>
+    <color name="category_electronics">#FF2196F3</color>
+    <color name="category_entertainment">#FF9C27B0</color>
+    <color name="category_food">#FFFF5722</color>
+    <color name="category_groceries">#FF8BC34A</color>
+    <color name="category_healthcare">#FF4CAF50</color>
+    <color name="category_home_garden">#FF795548</color>
+    <color name="category_other">#FF757575</color>
+    <color name="category_transportation">#FF607D8B</color>
+    <color name="category_travel">#FF00BCD4</color>
+    <color name="category_utilities">#FFFF9800</color>
+    <color name="green_500">#FF4CAF50</color>
+    <color name="orange_500">#FFFF9800</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red_500">#FFF44336</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="about">About</string>
+    <string name="add_first_receipt">Tap the + button to add your first receipt</string>
+    <string name="add_receipt">Add Receipt</string>
+    <string name="add_receipts_for_summary">Add some receipts to see your spending summary</string>
+    <string name="all_categories">All Categories</string>
+    <string name="app_description">Track your receipts with OCR technology and get insights into your spending habits.</string>
+    <string name="app_name">Receipt Tracker</string>
+    <string name="app_version">Receipt Tracker v1.0</string>
+    <string name="average_spent">Average Spent</string>
+    <string name="back">Back</string>
+    <string name="camera">Camera</string>
+    <string name="camera_permission_required">Camera permission is required</string>
+    <string name="cancel">Cancel</string>
+    <string name="capture">Capture</string>
+    <string name="category">Category</string>
+    <string name="category_icon">Category Icon</string>
+    <string name="clear_all_data">Clear All Data</string>
+    <string name="clear_data_message">Are you sure you want to delete all receipts? This action cannot be undone.</string>
+    <string name="clear_data_title">Clear All Data</string>
+    <string name="data_management">Data Management</string>
+    <string name="delete_all">Delete All</string>
+    <string name="export_data">Export Data</string>
+    <string name="failed_to_process_image">Failed to process image</string>
+    <string name="failed_to_save">Failed to save receipt</string>
+    <string name="filter">Filter</string>
+    <string name="filter_by_category">Filter by Category</string>
+    <string name="gallery">Gallery</string>
+    <string name="import_data">Import Data</string>
+    <string name="manual_entry">Manual Entry</string>
+    <string name="monthly_summary">Monthly Summary</string>
+    <string name="next_month">Next Month</string>
+    <string name="no_data_desc">No data</string>
+    <string name="no_receipts">No receipts yet</string>
+    <string name="no_receipts_desc">No receipts</string>
+    <string name="no_spending_data">No spending data</string>
+    <string name="notes">Notes (Optional)</string>
+    <string name="notifications">Notifications</string>
+    <string name="photo_capture_failed">Photo capture failed</string>
+    <string name="previous_month">Previous Month</string>
+    <string name="processing_image">Processing image...</string>
+    <string name="receipt_count">Receipt Count</string>
+    <string name="receipt_date">Receipt Date</string>
+    <string name="receipt_image">Receipt Image</string>
+    <string name="receipt_saved">Receipt saved successfully</string>
+    <string name="save_receipt">Save Receipt</string>
+    <string name="scan_receipt">Scan Receipt</string>
+    <string name="search">Search</string>
+    <string name="search_receipts">Search receipts...</string>
+    <string name="select_from_gallery">Select from Gallery</string>
+    <string name="spending_by_category">Spending by Category</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="title_receipts">Receipts</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_summary">Summary</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="total_spent">Total Spent</string>
+    <string name="vendor_name">Vendor Name</string>
+    <string name="warranty_alert">Warranty Alert</string>
+    <string name="warranty_alerts">Enable Warranty Alerts</string>
+    <string name="warranty_alerts_desc">Get notified when warranties are about to expire</string>
+    <string name="warranty_expiry">Warranty Expiry Date</string>
+    <style name="Theme.ReceiptTracker" parent="Theme.Material3.DayNight">
+        
+        <item name="colorPrimary">@color/blue_500</item>
+        <item name="colorPrimaryVariant">@color/blue_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Theme.ReceiptTracker.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.ReceiptTracker.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.ReceiptTracker.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

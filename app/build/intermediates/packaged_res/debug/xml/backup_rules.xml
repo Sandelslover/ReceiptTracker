@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Include Room database for backup -->
+    <include domain="database" path="receipts.db" />
+    <!-- Exclude receipt images to reduce backup size -->
+    <exclude domain="external" />
+    <exclude domain="internal" path="images/" />
+    <!-- Exclude shared preferences unless critical -->
+    <exclude domain="sharedpref" />
+</full-backup-content>

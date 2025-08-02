@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.receipttracker.app-mergeDebugResources-3:/layout/fragment_summary.xml",
+        "source": "com.receipttracker.app-main-6:/layout/fragment_summary.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-mergeDebugResources-3:/layout/activity_receipt_detail.xml",
+        "source": "com.receipttracker.app-main-6:/layout/activity_receipt_detail.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-mergeDebugResources-3:/layout/activity_add_receipt.xml",
+        "source": "com.receipttracker.app-main-6:/layout/activity_add_receipt.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-mergeDebugResources-3:/layout/bottom_sheet_add_receipt.xml",
+        "source": "com.receipttracker.app-main-6:/layout/bottom_sheet_add_receipt.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-mergeDebugResources-3:/layout/item_receipt.xml",
+        "source": "com.receipttracker.app-main-6:/layout/item_receipt.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-mergeDebugResources-3:/layout/fragment_receipts.xml",
+        "source": "com.receipttracker.app-main-6:/layout/fragment_receipts.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.receipttracker.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-mergeDebugResources-3:/layout/activity_camera.xml",
+        "source": "com.receipttracker.app-main-6:/layout/activity_camera.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-mergeDebugResources-3:/layout/item_category_summary.xml",
+        "source": "com.receipttracker.app-main-6:/layout/item_category_summary.xml"
+    },
+    {
+        "merged": "com.receipttracker.app-mergeDebugResources-3:/layout/fragment_settings.xml",
+        "source": "com.receipttracker.app-main-6:/layout/fragment_settings.xml"
+    }
+]

@@ -1,0 +1,3 @@
+com.receipttracker.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

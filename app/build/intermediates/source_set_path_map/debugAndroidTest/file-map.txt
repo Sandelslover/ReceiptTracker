@@ -1,0 +1,6 @@
+com.receipttracker.test.app-androidTest-0 C:\C-project\ReceiptTracker\app\build\generated\res\resValues\androidTest\debug
+com.receipttracker.test.app-mergeDebugAndroidTestResources-1 C:\C-project\ReceiptTracker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.receipttracker.test.app-mergeDebugAndroidTestResources-2 C:\C-project\ReceiptTracker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.receipttracker.test.app-merged_res-3 C:\C-project\ReceiptTracker\app\build\intermediates\merged_res\debugAndroidTest
+com.receipttracker.test.app-core-1.5.0-4 C:\Users\Topi Kivelä\.gradle\caches\transforms-3\9a92a3b1345778f8c078d46c558c0bf9\transformed\core-1.5.0\res
+com.receipttracker.test.app-annotation-experimental-1.3.1-5 C:\Users\Topi Kivelä\.gradle\caches\transforms-3\d6147b2339acc460eaeefa3e3005ca64\transformed\annotation-experimental-1.3.1\res
